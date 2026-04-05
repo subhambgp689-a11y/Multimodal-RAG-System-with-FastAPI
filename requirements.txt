@@ -9,3 +9,5 @@ pdfplumber
 pillow
 transformers
 torch
+openai
+python-multipart

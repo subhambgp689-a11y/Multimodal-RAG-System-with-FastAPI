@@ -13,3 +13,14 @@ class VectorStore:
     def search(self, query_vector, k=5):
         D, I = self.index.search(query_vector, k)
         return [self.documents[i] for i in I[0]]
+
+    def document_count(self):
+        return len(self.documents)
+
+    def index_size(self):
+        return int(self.index.ntotal)
+
+    def index_memory_bytes(self):
+        if hasattr(self.index, 'd'):
+            return int(self.index.ntotal * self.index.d * 4)
+        return 0

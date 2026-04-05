@@ -139,12 +139,19 @@ Response:
 }
 
 6. Screenshots
-Swagger UI (/docs)
-Ingestion success response
-Query result (text)
-Query result (table)
-Image query result
-Health endpoint
+![alt text](<Swagger UI.png>)
+
+![alt text](<Successful ingestion.png>)
+
+![alt text](<Text qeury.png>)
+
+![alt text](<Table query.png>)
+
+![alt text](<image query.png>)
+
+![alt text](Health.png)
+
+
 
 7. Limitations & Future Work
 ❌ Current Limitations
