@@ -1,3 +1,5 @@
+Domain Identification: Automotive industry. I work in research and development and look after new products and their issues.
+
 1. PROBLEM STATEMENT (Domain-Specific, 500–800 words)
 Modern vehicles come with extensive owner manuals that span hundreds of pages and include a mix of textual instructions, structured tables, and visual diagrams. While these manuals are comprehensive, they are not optimized for real-time information retrieval. Users often struggle to quickly find relevant information when facing urgent situations such as warning indicators, maintenance queries, or driving conditions.
 
